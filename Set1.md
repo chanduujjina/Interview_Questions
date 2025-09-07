@@ -1,4 +1,4 @@
-md_content = """
+
 # 📘 Tricky Core Java Interview Questions (8+ Years Experience)
 
 ---
