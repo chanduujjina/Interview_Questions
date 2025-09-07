@@ -110,5 +110,4 @@ md_content = """
 - Have you faced any issues with memory or thread leakage in Java apps?
 """
 
-with open("Tricky_Core_Java_Questions_8_Years.md", "w", encoding="utf-8") as file:
-    file.write(md_content)
+
