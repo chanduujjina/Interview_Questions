@@ -103,5 +103,5 @@
 48. What is effectively final variable?  
 49. How do you handle exceptions in lambda expressions?  
 50. How is method overloading affected by lambda expressions?
-"""
+---
 
