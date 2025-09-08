@@ -1,4 +1,4 @@
-java8_md_content = """
+
 # 📘 Java 8 Interview Questions
 
 ---
@@ -105,7 +105,3 @@ java8_md_content = """
 50. How is method overloading affected by lambda expressions?
 """
 
-with open("Java8_Interview_Questions.md", "w", encoding="utf-8") as file:
-    file.write(java8_md_content)
-
-print("✅ File 'Java8_Interview_Questions.md' generated successfully.")
